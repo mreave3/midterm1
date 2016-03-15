@@ -1,0 +1,9 @@
+#map { width: 800px; height: 800px; margin: 0 auto; padding: 0; }
+
+/* adds basemap controls to ARCGIS map */
+#BasemapToggle {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  z-index: 50;
+}

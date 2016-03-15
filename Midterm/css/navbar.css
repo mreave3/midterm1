@@ -1,0 +1,16 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body {
+  background: url(http://vvf.cms.digital-ridge.com/media/565007/Vilarpac_website_background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar {
+  margin-bottom: 200px;
+}
