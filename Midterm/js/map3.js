@@ -8,7 +8,7 @@
         });
 		
 		// Create a layer object from an ArcGIS Server web service, setting the opacity option
-var layer2 = new ArcGISDynamicMapServiceLayer( "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/mapoverlays_political/MapServer/6", {
+var layer2 = new ArcGISDynamicMapServiceLayer( "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/mapoverlays_political/MapServer/", {
   "opacity": 1.00
 });
 map.addLayer(layer2); // add the layer object to the map
